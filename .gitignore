@@ -1,0 +1,14 @@
+# editor craps
+.projectile
+*.sublime-*
+*~
+\#*\#
+
+# project specific
+pid
+
+
+# zip files
+*.tar.*
+*.zip
+*.rar
