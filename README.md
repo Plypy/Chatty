@@ -1,6 +1,12 @@
-###Fils
+##Rough Description
+This is a simple Node.js based TCP chat server with a naive dynamic modules
+control mechanism.
+
+###Files
 app.js: main server logic
+
 conf.js: additional functions
+
 pid: generated file that store the PID of the program
 
 ###Details
